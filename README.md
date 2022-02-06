@@ -54,7 +54,7 @@ $ yarn
 
 # Rode a aplicação
 
-$ yarn dev
+$ yarn start
 
 # Acesse http://localhost:3000 no seu navegador
 
@@ -99,4 +99,5 @@ Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linked
 ## 💙 Agradecimentos
 
 Meus agradecimentos à [Rocketseat](https://rocketseat.com.br/) por disponibilizar esse conteúdo sensacional 🚀.
+
 # Github-Explorer
